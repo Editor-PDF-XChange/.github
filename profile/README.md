@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://torrents-soft.ru/uploads/posts/2025-11/i-img1040x1040-17162355317y3p6t7.jpg" alt="Program Logo"/>
+  <img src="https://freesoft.ru/storage/images/826/8251/825085/825085_normal.png" alt="Program Logo"/>
 </div>
 
 <div align="center">
